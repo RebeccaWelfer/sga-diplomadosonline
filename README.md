@@ -1,1 +1,1 @@
-# sga-diplomadosonline.
+# sga-diplomadosonline
