@@ -1,0 +1,7 @@
+============================================
+REPORTE DE CERTIFICADOS PENDIENTES
+============================================
+Total de graduandos en cola: 0
+
+============================================
+Fin del reporte - Generado por SGA-DO
