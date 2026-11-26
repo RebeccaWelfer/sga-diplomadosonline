@@ -1,0 +1,12 @@
+============================================
+REPORTE DE CERTIFICADOS PENDIENTES
+============================================
+Total de graduandos en cola: 1
+
+1. [V-27426716] Rebecca Welffer
+   - Programa: Diplomado
+   - Promedio Final: 15.7
+   - Estatus: APROBADO
+
+============================================
+Fin del reporte - Generado por SGA-DO
